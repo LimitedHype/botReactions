@@ -12,16 +12,16 @@ client.on("message", message => {
 
 
     // AIO Bots & Shopify
-    const cyber = client.emojis.find(emoji => emoji.name === "CyberSG");
-    const dashe = client.emojis.find(emoji => emoji.name === "Dashe");
-    const eve = client.emojis.find(emoji => emoji.name === "Eve");
-    const sole = client.emojis.find(emoji => emoji.name === "Sole");
-    const tks = client.emojis.find(emoji => emoji.name === "TKS");
-    const prism = client.emojis.find(emoji => emoji.name === "Prism");
-    const pd = client.emojis.find(emoji => emoji.name === "PD");
-    const nsb = client.emojis.find(emoji => emoji.name === "NSB");
-    const kodai = client.emojis.find(emoji => emoji.name === "Kodai");
-    const balko = client.emojis.find(emoji => emoji.name === "Balko");
+    const cyber = client.emojis.get("");
+    const dashe = client.emojis.get("");
+    const eve = client.emojis.get("");
+    const sole = client.emojis.get("");
+    const tks = client.emojis.get("");
+    const prism = client.emojis.get("");
+    const pd = client.emojis.get("");
+    const nsb = client.emojis.get("");
+    const kodai = client.emojis.get("");
+    const balko = client.emojis.get("");
     const whatBot = client.emojis.get("");
     const samurai = client.emojis.get("");
     const aiomoji = client.emojis.get("");
