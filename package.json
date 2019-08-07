@@ -1,0 +1,14 @@
+{
+  "name": "botreactions",
+  "version": "1.0.0",
+  "description": "create bot reactions",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charlie",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
